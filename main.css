@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+}
+
+form{
+    border: 2px solid black;
+    background: chartreuse;
+    margin-top: 45vh;
+    /* margin-top: vh(view height) */
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin: 4px auto;
+}
