@@ -1,13 +1,14 @@
 form{
+    width: 20%;
     text-align: center;
     border: 1px solid black;
     background: white;
 }
 
 body{
-
-    padding: 8px white;
     background-color: skyblue;
+    margin: 50px;
+   
 }
 
 .nav{
@@ -19,3 +20,6 @@ body{
 
 }
 
+.links{
+    shape-image-threshold: unset;
+}
